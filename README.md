@@ -4,8 +4,6 @@
 
 You have 3 button that should load [the goods](https://mate-academy.github.io/react_dynamic-list-of-goods/goods.json) and show them on the page using the   `GoodsList`.
 
-
-
 1. `Load All goods` should load and show all the `goods`;
 1. `Load 5 first goods` should do the next:
     - load all the goods;
